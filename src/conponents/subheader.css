@@ -1,0 +1,36 @@
+.subheader{
+    width: 100%;
+    background-color:#232F3E;
+    height: 38px;
+    display: flex;
+    
+    
+}
+.pants{
+    color: white;
+    font-size: large;
+    font-weight: 600;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+    margin-left: 10px;
+
+}
+.shirts{
+    color: white;
+    font-size: large;
+    font-weight: 600;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+    margin-left: 10px;
+
+}
